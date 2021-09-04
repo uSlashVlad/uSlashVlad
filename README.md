@@ -1,14 +1,12 @@
 # Hello World!
-## My name is Vladislav aka **u/vlad**, I am app developer
+### My name is Vladislav aka u/vlad, I am app developer (in general)
 Have an experience in desktop, mobile, web and game development
 
 ![Vladislav Nagorny's GitHub stats](https://github-readme-stats.vercel.app/api?username=uslashvlad&show_icons=true&theme=radical)
 
 ![Vladislav Nagorny's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uslashvlad&theme=radical)
 
----
-
-## **Languages, tools and frameworks**
+## Languages, tools and frameworks
 
 [<img src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png" width="45">](https://github.com/topics/flutter)
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" width="45">](https://github.com/topics/dart)
@@ -21,7 +19,6 @@ Have an experience in desktop, mobile, web and game development
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="45">](https://github.com/topics/css)
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" width="45">](https://github.com/topics/csharp)
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" width="45">](https://github.com/topics/unity)
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/godot/godot.png" width="45">](https://github.com/topics/godot)
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png" width="45">](https://github.com/topics/lua)
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" width="45">](https://github.com/topics/mongodb)
 [<img src="https://raw.githubusercontent.com/github/explore/2d218e3aa252dc90eef269b34eeec1fbd15dc07e/topics/sqlite/sqlite.png" width="45">](https://github.com/topics/sqlite)
@@ -30,9 +27,7 @@ Have an experience in desktop, mobile, web and game development
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="45">](https://github.com/topics/git)
 ### **... and always ready to know more!**
 
----
-
-## **My projects**
+## My projects
 I can't be proud of all my projects, but I have to show it
 
 ### My Dart/Flutter projects:
@@ -62,8 +57,6 @@ I can't be proud of all my projects, but I have to show it
 [![Impossible StarBound](https://github-readme-stats.vercel.app/api/pin/?username=uSlashVlad&repo=sb-impossible-starbound&theme=radical)](https://github.com/uSlashVlad/sb-impossible-starbound)
 [![Cheaty Factories](https://github-readme-stats.vercel.app/api/pin/?username=uSlashVlad&repo=sb-cheaty-factories&theme=radical)](https://github.com/uSlashVlad/sb-cheaty-factories)
 [![Frackin Solar panels](https://github-readme-stats.vercel.app/api/pin/?username=uSlashVlad&repo=sb-solar-panels&theme=radical)](https://github.com/uSlashVlad/sb-solar-panels)
-
----
 
 ## **Contacts**
 
