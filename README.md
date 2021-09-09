@@ -40,6 +40,7 @@ I can't be proud of all my projects, but I have to show it
 
 [![Pretty JSON](https://github-readme-stats.vercel.app/api/pin/?username=Ferdzzzzzzzz&repo=pretty_json&theme=radical)](https://github.com/Ferdzzzzzzzz/pretty_json)
 [![Flutter Toast](https://github-readme-stats.vercel.app/api/pin/?username=appdev&repo=FlutterToast&theme=radical)](https://github.com/appdev/FlutterToast)
+[![RTU MIREA mobile](https://github-readme-stats.vercel.app/api/pin/?username=Ninja-Official&repo=rtu-mirea-mobile&theme=radical)](https://github.com/Ninja-Official/rtu-mirea-mobile)
 
 ### My only C++ project repo:
 
