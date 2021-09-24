@@ -2,9 +2,13 @@
 ### My name is Vladislav aka u/vlad, I am app developer (in general)
 Have an experience in desktop, mobile, web and game development
 
-![Vladislav Nagorny's GitHub stats](https://github-readme-stats.vercel.app/api?username=uslashvlad&show_icons=true&theme=radical)
+![Vladislav's GitHub stats](https://github-readme-stats.vercel.app/api?username=uslashvlad&show_icons=true&theme=radical)
 
-![Vladislav Nagorny's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uslashvlad&theme=radical)
+![Vladislav's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uslashvlad&theme=radical)
+
+[![Vladislav's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=uSlashVlad&theme=radical)](https://wakatime.com/@uSlashVlad)
+
+**... and no time stats from Qt Creator ;(**
 
 ## Languages, tools and frameworks
 
@@ -48,6 +52,7 @@ I can't be proud of all my projects, but I have to show it
 
 ### My main Web/NodeJS projects:
 
+[![Umschool extension](https://github-readme-stats.vercel.app/api/pin/?username=uSlashVlad&repo=variscite_api&theme=radical)](https://github.com/uSlashVlad/variscite_api)
 [![DebilsTech](./debils-card.svg)](https://debils.tech)
 [![Umschool extension](https://github-readme-stats.vercel.app/api/pin/?username=uSlashVlad&repo=umschool-extension&theme=radical)](https://github.com/uSlashVlad/umschool-extension)
 [![RESTful API](https://github-readme-stats.vercel.app/api/pin/?username=uSlashVlad&repo=vidback&theme=radical)](https://github.com/uSlashVlad/vidback)
