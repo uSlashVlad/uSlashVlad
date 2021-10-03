@@ -6,7 +6,7 @@ Have an experience in desktop, mobile, web and game development
 
 ![Vladislav's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uslashvlad&theme=radical)
 
-[![Vladislav's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=uSlashVlad&theme=radical)](https://wakatime.com/@uSlashVlad)
+![Vladislav's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=uSlashVlad&range=last_30_days&api_domain=wakapi.dev&theme=radical&custom_title=Wakapi%20Month%20Stats&langs_count=5)
 
 **... and no time stats from Qt Creator ;(**
 
