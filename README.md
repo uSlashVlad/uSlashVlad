@@ -46,9 +46,10 @@ I can't be proud of all my projects, but I have to show it
 [![Flutter Toast](https://github-readme-stats.vercel.app/api/pin/?username=appdev&repo=FlutterToast&theme=radical)](https://github.com/appdev/FlutterToast)
 [![RTU MIREA mobile](https://github-readme-stats.vercel.app/api/pin/?username=Ninja-Official&repo=rtu-mirea-mobile&theme=radical)](https://github.com/Ninja-Official/rtu-mirea-mobile)
 
-### My only C++ project repo:
+### My C++ projects:
 
 [![I Love Karpov](https://github-readme-stats.vercel.app/api/pin/?username=uslashvlad&repo=i-love-karpov&theme=radical)](https://github.com/uslashvlad/i-love-karpov)
+[![MineSweeper](https://github-readme-stats.vercel.app/api/pin/?username=uslashvlad&repo=minesweeper&theme=radical)](https://github.com/uslashvlad/minesweeper)
 
 ### My main Web/NodeJS projects:
 
