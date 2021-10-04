@@ -6,7 +6,7 @@ Have an experience in desktop, mobile, web and game development
 
 ![Vladislav's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uslashvlad&theme=radical)
 
-![Vladislav's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=uSlashVlad&range=last_30_days&api_domain=wakapi.dev&theme=radical&custom_title=Wakapi%20Month%20Stats&langs_count=5)
+![Vladislav's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=uSlashVlad&range=any&api_domain=wakapi.dev&theme=radical&custom_title=Wakapi%20Stats&langs_count=5)
 
 **... and no time stats from Qt Creator ;(**
 
@@ -18,6 +18,7 @@ Have an experience in desktop, mobile, web and game development
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="45">](https://github.com/topics/javascript)
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" width="45">](https://github.com/topics/typescript)
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/qt/qt.png" width="45">](https://github.com/topics/qt)
+[<img src="sfml-logo.png" width="45">](https://github.com/topics/sfml)
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" width="45">](https://github.com/topics/cpp)
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="45">](https://github.com/topics/html)
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="45">](https://github.com/topics/css)
