@@ -6,7 +6,7 @@ Have an experience in desktop, mobile, web and game development
 
 ![Vladislav's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uslashvlad&theme=radical)
 
-![Vladislav's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=uSlashVlad&range=any&api_domain=wakapi.dev&theme=radical&custom_title=Wakapi%20Stats&langs_count=5)
+![Vladislav's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=uSlashVlad&range=any&api_domain=wakapi.dev&theme=radical&langs_count=5)
 
 **... and no time stats from Qt Creator ;(**
 
@@ -37,6 +37,7 @@ I can't be proud of all my projects, but I have to show it
 
 ### My Dart/Flutter projects:
 
+[![Variscitr Mobile](https://github-readme-stats.vercel.app/api/pin/?username=uslashvlad&repo=variscite_mobile&theme=radical)](https://github.com/uSlashVlad/variscite_mobile)
 [![Infinim1al app](https://github-readme-stats.vercel.app/api/pin/?username=uslashvlad&repo=infinimal&theme=radical)](https://github.com/uSlashVlad/infinimal)
 [![LiIn language](https://github-readme-stats.vercel.app/api/pin/?username=uslashvlad&repo=liin_lang&theme=radical)](https://github.com/uSlashVlad/liin_lang)
 [![DartVika TG bot](https://github-readme-stats.vercel.app/api/pin/?username=uslashvlad&repo=dartvika&theme=radical)](https://github.com/uSlashVlad/dartvika)
