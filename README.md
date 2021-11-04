@@ -30,14 +30,16 @@ Have an experience in desktop, mobile, web and game development
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" width="45">](https://github.com/topics/android)
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" width="45">](https://github.com/topics/linux)
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="45">](https://github.com/topics/git)
-### **... and always ready to know more!**
+
+**... and always ready to know more!**
 
 ## My projects
 I can't be proud of all my projects, but I have to show it
 
 ### My Dart/Flutter projects:
 
-[![Variscitr Mobile](https://github-readme-stats.vercel.app/api/pin/?username=uslashvlad&repo=variscite_mobile&theme=radical)](https://github.com/uSlashVlad/variscite_mobile)
+[![Variscite Mobile](https://github-readme-stats.vercel.app/api/pin/?username=uslashvlad&repo=variscite_mobile&theme=radical)](https://github.com/uSlashVlad/variscite_mobile)
+[![Variscite for Dart](https://github-readme-stats.vercel.app/api/pin/?username=uslashvlad&repo=variscite_dart&theme=radical)](https://github.com/uSlashVlad/variscite_dart)
 [![Infinim1al app](https://github-readme-stats.vercel.app/api/pin/?username=uslashvlad&repo=infinimal&theme=radical)](https://github.com/uSlashVlad/infinimal)
 [![LiIn language](https://github-readme-stats.vercel.app/api/pin/?username=uslashvlad&repo=liin_lang&theme=radical)](https://github.com/uSlashVlad/liin_lang)
 [![DartVika TG bot](https://github-readme-stats.vercel.app/api/pin/?username=uslashvlad&repo=dartvika&theme=radical)](https://github.com/uSlashVlad/dartvika)
