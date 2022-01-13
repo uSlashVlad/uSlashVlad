@@ -1,5 +1,7 @@
 # Hello World!
+
 ### My name is Vladislav aka u/vlad, I am app developer (in general)
+
 Have an experience in desktop, mobile, web and game development
 
 ![Vladislav's GitHub stats](https://github-readme-stats.vercel.app/api?username=uslashvlad&show_icons=true&theme=radical)
@@ -9,6 +11,12 @@ Have an experience in desktop, mobile, web and game development
 ![Vladislav's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=uSlashVlad&range=any&api_domain=wakapi.dev&theme=radical&langs_count=5)
 
 **... and no time stats from Qt Creator ;(**
+
+## My LeetCode stats
+
+### **It ain't much, but it's honest work** _(started 12 Jan 2022)_
+
+![LeetCode Stats](https://leetcode.card.workers.dev/uSlashVlad?theme=dark&font=baloo)
 
 ## Languages, tools and frameworks
 
@@ -34,6 +42,7 @@ Have an experience in desktop, mobile, web and game development
 **... and always ready to know more!**
 
 ## My projects
+
 I can't be proud of all my projects, but I have to show it
 
 ### My Dart/Flutter projects:
@@ -65,6 +74,7 @@ I can't be proud of all my projects, but I have to show it
 [![VK poll analizer](https://github-readme-stats.vercel.app/api/pin/?username=uSlashVlad&repo=vk-poll-analizer&theme=radical)](https://github.com/uSlashVlad/vk-poll-analizer)
 
 ### Some of my gamedev projects:
+
 [![Don't Waint](https://github-readme-stats.vercel.app/api/pin/?username=uSlashVlad&repo=Dont-Wait&theme=radical)](https://github.com/uSlashVlad/Dont-Wait)
 [![Impossible StarBound](https://github-readme-stats.vercel.app/api/pin/?username=uSlashVlad&repo=sb-impossible-starbound&theme=radical)](https://github.com/uSlashVlad/sb-impossible-starbound)
 [![Cheaty Factories](https://github-readme-stats.vercel.app/api/pin/?username=uSlashVlad&repo=sb-cheaty-factories&theme=radical)](https://github.com/uSlashVlad/sb-cheaty-factories)
