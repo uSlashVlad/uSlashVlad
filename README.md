@@ -16,7 +16,7 @@ Have an experience in desktop, mobile, web and game development
 
 ### **It ain't much, but it's honest work** _(started 12 Jan 2022)_
 
-![LeetCode Stats](https://leetcode.card.workers.dev/uSlashVlad?theme=dark&font=baloo)
+[![LeetCode Stats](https://leetcode.card.workers.dev/uSlashVlad?theme=dark&font=baloo)](https://leetcode.com/uSlashVlad/)
 
 ## Languages, tools and frameworks
 
