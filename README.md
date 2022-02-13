@@ -6,16 +6,6 @@ My name is Vladislav aka u/vlad. I am 19 year old, and I am from Russia. Current
 
 ![Vladislav's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uslashvlad&theme=radical)
 
-![Vladislav's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=uSlashVlad&range=any&api_domain=wakapi.dev&theme=radical&langs_count=5)
-
-**... and no time stats from Qt Creator ;(**
-
-## My LeetCode stats
-
-### **It ain't much, but it's honest work** _(started 12 Jan 2022)_
-
-[![LeetCode Stats](https://leetcode.card.workers.dev/uSlashVlad?theme=dark&font=baloo)](https://leetcode.com/uSlashVlad/)
-
 ## Languages, tools and frameworks
 
 [<img src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png" width="45">](https://github.com/topics/flutter)
