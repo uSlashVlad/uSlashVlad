@@ -57,10 +57,8 @@ _C++ difinitely wins due to its huge amount of code compared to Dart or TypeScri
 
 ### My Dart/Flutter contributions:
 
-[![Pretty JSON](https://github-readme-stats.vercel.app/api/pin/?username=Ferdzzzzzzzz&repo=pretty_json&theme=radical)](https://github.com/Ferdzzzzzzzz/pretty_json)
-[![Flutter Toast](https://github-readme-stats.vercel.app/api/pin/?username=appdev&repo=FlutterToast&theme=radical)](https://github.com/appdev/FlutterToast)
-[![RTU MIREA mobile](https://github-readme-stats.vercel.app/api/pin/?username=mirea-ninja&repo=rtu-mirea-mobile&theme=radical)](https://github.com/mirea-ninja/rtu-mirea-mobile)
 [![GeoJSON for Dart](https://github-readme-stats.vercel.app/api/pin/?username=chuyentt&repo=geojson_vi&theme=radical)](https://github.com/chuyentt/geojson_vi)
+[![RTU MIREA mobile](https://github-readme-stats.vercel.app/api/pin/?username=mirea-ninja&repo=rtu-mirea-mobile&theme=radical)](https://github.com/mirea-ninja/rtu-mirea-mobile)
 
 ### My C++ projects:
 
@@ -70,7 +68,6 @@ _C++ difinitely wins due to its huge amount of code compared to Dart or TypeScri
 ### My main Web/NodeJS projects:
 
 [![Umschool extension](https://github-readme-stats.vercel.app/api/pin/?username=uSlashVlad&repo=variscite_api&theme=radical)](https://github.com/uSlashVlad/variscite_api)
-[![DebilsTech](./debils-card.svg)](https://debils.tech)
 [![Umschool extension](https://github-readme-stats.vercel.app/api/pin/?username=uSlashVlad&repo=umschool-extension&theme=radical)](https://github.com/uSlashVlad/umschool-extension)
 [![RESTful API](https://github-readme-stats.vercel.app/api/pin/?username=uSlashVlad&repo=vidback&theme=radical)](https://github.com/uSlashVlad/vidback)
 [![VK poll analizer](https://github-readme-stats.vercel.app/api/pin/?username=uSlashVlad&repo=vk-poll-analizer&theme=radical)](https://github.com/uSlashVlad/vk-poll-analizer)
