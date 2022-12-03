@@ -6,7 +6,7 @@ My name is Vladislav aka u/vlad. I am 19 year old, and I am from Russia. Current
 
 ![Vladislav's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uslashvlad&theme=radical)
 
-_C++ difinitely wins due to its huge amount of code compared to Dart or TypeScript_
+_C++ definitely wins due to its huge amount of code compared to Dart or TypeScript_
 
 ### General languages and tools:
 
@@ -81,7 +81,7 @@ _C++ difinitely wins due to its huge amount of code compared to Dart or TypeScri
 
 ## **Contacts**
 
-- [**Website** _(currenly under maintanance)_](https://debils.tech)
+- [**Website** _(currenly under maintenance)_](https://debils.tech)
 - [**Telegram**](https://t.me/uslashvlad)
 - [Steam](https://steamcommunity.com/id/uslashvlad)
 - [ВКонтакте](https://vk.com/uslashvlad)
