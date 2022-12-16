@@ -1,6 +1,6 @@
 # Hello World! 😃
 
-My name is Vladislav aka u/vlad. I am 19 year old, and I am from Russia. Currently I am a student in RTU MIREA (3rd year). I have some experience in desktop, mobile, web and game development, so I am an app developer in general, but always happy to create some interesting or funny stuff!
+My name is Vladislav aka u/vlad. I am 20 year old, and I am from Russia. Currently I am a student in RTU MIREA (3rd year). I have some experience in desktop, mobile, web and game development, so I am an app developer in general, but always happy to create some interesting or funny stuff!
 
 ![Vladislav's GitHub stats](https://github-readme-stats.vercel.app/api?username=uslashvlad&show_icons=true&theme=radical)
 
