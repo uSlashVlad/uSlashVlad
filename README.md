@@ -4,10 +4,6 @@ My name is Vladislav aka u/vlad. I am 20 year old, and I am from Russia. Current
 
 ![Vladislav's GitHub stats](https://github-readme-stats.vercel.app/api?username=uslashvlad&show_icons=true&theme=radical)
 
-![Vladislav's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uslashvlad&theme=radical)
-
-_C++ definitely wins due to its huge amount of code compared to Dart or TypeScript_
-
 ### General languages and tools:
 
 [<img src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png" width="45">](https://github.com/topics/flutter)
