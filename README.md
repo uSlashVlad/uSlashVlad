@@ -15,7 +15,7 @@ My name is Vladislav aka u/vlad. I am 20 year old, and I am from Russia. Current
 [<img src="images/icons/linux.png" width="45">](https://github.com/topics/linux)
 [<img src="images/icons/git.png" width="45">](https://github.com/topics/git)
 
-### Some other ![languages](images/shields/basic-languages.svg), ![tools](images/shields/basic-tools.svg), ![technologies](images/shields/basic-technologies.svg) and ![services](basic-services.svg) that I am currently using or was using in previous projects:
+### Some other ![languages](images/shields/basic-languages.svg), ![tools](images/shields/basic-tools.svg), ![technologies](images/shields/basic-technologies.svg) and ![services](images/shields/basic-services.svg) that I am currently using or was using in previous projects:
 
 ![C#](images/shields/c_sharp.svg)
 ![JS](images/shields/js.svg)
@@ -29,6 +29,7 @@ My name is Vladislav aka u/vlad. I am 20 year old, and I am from Russia. Current
 ![Unity](images/shields/unity.svg)
 ![Figma](images/shields/figma.svg)
 ![Adobe Illustrator](images/shields/illustrator.svg)
+![Atlassian Jira](images/shields/jira.svg)
 ![SQLite](images/shields/sqlite.svg)
 ![Postgresql](images/shields/postgresql.svg)
 ![WebRTC](images/shields/webrtc.svg)
@@ -46,6 +47,7 @@ My name is Vladislav aka u/vlad. I am 20 year old, and I am from Russia. Current
 ### My Dart/Flutter projects:
 
 [![Not Zero](images/cards/not_zero-project.svg)](https://github.com/debils-tech/not_zero)
+[![Lemonade](images/cards/lemonade-project.svg)](https://github.com/uSlashVlad/lemonade)
 [![Variscite Mobile](images/cards/variscite_mobile-project.svg)](https://github.com/uSlashVlad/variscite_mobile)
 [![Infinim1al app](images/cards/infinimal-project.svg)](https://github.com/uSlashVlad/infinimal)
 [![LiIn language](images/cards/liin-project.svg)](https://github.com/uSlashVlad/liin_lang)

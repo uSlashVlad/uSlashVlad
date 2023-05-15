@@ -14,6 +14,7 @@ curl -fs "$BASE_URL?username=uslashvlad&show_icons=true&$THEME_VALUE" -o $SUBDIR
 # curl -fs "$BASE_URL/LINK&$THEME_VALUE" -o $SUBDIR/PROJECT-project.svg
 # Dart/Flutter projects
 curl -fs "$BASE_URL/pin/?username=debils-tech&repo=not_zero&$THEME_VALUE" -o $SUBDIR/not_zero-project.svg
+curl -fs "$BASE_URL/pin/?username=uslashvlad&repo=lemonade&$THEME_VALUE" -o $SUBDIR/lemonade-project.svg
 curl -fs "$BASE_URL/pin/?username=uslashvlad&repo=variscite_mobile&$THEME_VALUE" -o $SUBDIR/variscite_mobile-project.svg
 curl -fs "$BASE_URL/pin/?username=uslashvlad&repo=infinimal&$THEME_VALUE" -o $SUBDIR/infinimal-project.svg
 curl -fs "$BASE_URL/pin/?username=uslashvlad&repo=liin_lang&$THEME_VALUE" -o $SUBDIR/liin-project.svg
@@ -77,6 +78,7 @@ curl -fs "$BASE_URL/Postman-blueviolet?style=flat-square&logoColor=white&logo=po
 curl -fs "$BASE_URL/Unity-blueviolet?style=flat-square&logoColor=white&logo=unity" -o $SUBDIR/unity.svg
 curl -fs "$BASE_URL/Figma-blueviolet?style=flat-square&logoColor=white&logo=figma" -o $SUBDIR/figma.svg
 curl -fs "$BASE_URL/Adobe_Illustrator-blueviolet?style=flat-square&logoColor=white&logo=adobe-illustrator" -o $SUBDIR/illustrator.svg
+curl -fs "$BASE_URL/Atlassian_Jira-blueviolet?style=flat-square&logoColor=white&logo=jira" -o $SUBDIR/jira.svg
 # Technologies
 curl -fs "$BASE_URL/SQLite-blue?style=flat-square&logoColor=white&logo=sqlite" -o $SUBDIR/sqlite.svg
 curl -fs "$BASE_URL/Postgresql-blue?style=flat-square&logoColor=white&logo=postgresql" -o $SUBDIR/postgresql.svg
