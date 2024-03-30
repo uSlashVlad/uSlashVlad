@@ -1,6 +1,6 @@
 # Hello World! 😃
 
-My name is Vladislav aka u/vlad. I am 20 year old, and I am from Russia. Currently I am a student in RTU MIREA (3rd year). I have some experience in desktop, mobile, web and game development, so I am an app developer in general, but always happy to create some interesting or funny stuff!
+My name is Vladislav aka u/vlad. I am 21 year old, and I am from Russia. Currently I am a student in RTU MIREA (final year). I have some experience in desktop, mobile, web and game development, so I am an app developer in general, but always happy to create some interesting or funny stuff!
 
 ![Vladislav's GitHub stats](images/cards/profile-card.svg)
 
@@ -48,8 +48,8 @@ My name is Vladislav aka u/vlad. I am 20 year old, and I am from Russia. Current
 
 [![Not Zero](images/cards/not_zero-project.svg)](https://github.com/debils-tech/not_zero)
 [![Lemonade](images/cards/lemonade-project.svg)](https://github.com/uSlashVlad/lemonade)
-[![Variscite Mobile](images/cards/variscite_mobile-project.svg)](https://github.com/uSlashVlad/variscite_mobile)
 [![Infinim1al app](images/cards/infinimal-project.svg)](https://github.com/uSlashVlad/infinimal)
+[![Variscite Mobile](images/cards/variscite_mobile-project.svg)](https://github.com/uSlashVlad/variscite_mobile)
 [![LiIn language](images/cards/liin-project.svg)](https://github.com/uSlashVlad/liin_lang)
 
 ### My C++ projects:
@@ -69,8 +69,8 @@ My name is Vladislav aka u/vlad. I am 20 year old, and I am from Russia. Current
 
 ## **Contacts**
 
-- [**Website** _(currenly under maintenance)_](https://debils.tech)
+<!-- - [**Website** _(currenly under maintenance)_](https://debils.tech) -->
 - [**Telegram**](https://t.me/uslashvlad)
+- [**Work mail**](mailto:debils.technologies@gmail.com)
 - [Steam](https://steamcommunity.com/id/uslashvlad)
 - [ВКонтакте](https://vk.com/uslashvlad)
-- [**Work mail**](mailto:debils.technologies@gmail.com)

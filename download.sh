@@ -65,7 +65,7 @@ curl -fs "$BASE_URL/tools-blueviolet?style=flat-square&logoColor=white" -o $SUBD
 curl -fs "$BASE_URL/technologies-blue?style=flat-square&logoColor=white" -o $SUBDIR/basic-technologies.svg
 curl -fs "$BASE_URL/services-yellow?style=flat-square&logoColor=white" -o $SUBDIR/basic-services.svg
 # Languages
-curl -fs "$BASE_URL/C%23-orange?style=flat-square&logoColor=white&logo=c-sharp" -o $SUBDIR/c_sharp.svg
+curl -fs "$BASE_URL/C%23-orange?style=flat-square&logoColor=white&logo=csharp" -o $SUBDIR/c_sharp.svg
 curl -fs "$BASE_URL/JavaScript-orange?style=flat-square&logoColor=white&logo=javascript" -o $SUBDIR/js.svg
 curl -fs "$BASE_URL/HTML-orange?style=flat-square&logoColor=white&logo=html5" -o $SUBDIR/html5.svg
 curl -fs "$BASE_URL/CSS-orange?style=flat-square&logoColor=white&logo=css3" -o $SUBDIR/css.svg

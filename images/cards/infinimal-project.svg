@@ -1,8 +1,8 @@
 
       <svg
         width="400"
-        height="120"
-        viewBox="0 0 400 120"
+        height="140"
+        viewBox="0 0 400 140"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
@@ -29,24 +29,24 @@
   
 
           
-    /* Animations */
-    @keyframes scaleInAnimation {
-      from {
-        transform: translate(-5px, 5px) scale(0);
+      /* Animations */
+      @keyframes scaleInAnimation {
+        from {
+          transform: translate(-5px, 5px) scale(0);
+        }
+        to {
+          transform: translate(-5px, 5px) scale(1);
+        }
       }
-      to {
-        transform: translate(-5px, 5px) scale(1);
+      @keyframes fadeInAnimation {
+        from {
+          opacity: 0;
+        }
+        to {
+          opacity: 1;
+        }
       }
-    }
-    @keyframes fadeInAnimation {
-      from {
-        opacity: 0;
-      }
-      to {
-        opacity: 1;
-      }
-    }
-  
+    
           * { animation-duration: 0s !important; animation-delay: 0s !important; }
         </style>
 
@@ -98,31 +98,18 @@
         >
           
     
-  <g data-testid="badge" class="badge" transform="translate(320, -18)">
-    <rect stroke="#a9fef7" stroke-width="1" width="70" height="20" x="-12" y="-14" ry="10" rx="10"></rect>
-    <text
-      x="23" y="-5"
-      alignment-baseline="central"
-      dominant-baseline="central"
-      text-anchor="middle"
-      fill="#a9fef7"
-    >
-      Archived
-    </text>
-  </g>
-
 
     <text class="description" x="25" y="-5">
-      <tspan dy="1.2em" x="25">Simple and stupid flutter app</tspan>
+      <tspan dy="1.2em" x="25">Simple flutter app for showing images of animals from</tspan><tspan dy="1.2em" x="25">external API</tspan>
     </text>
 
-    <g transform="translate(30, 45)">
+    <g transform="translate(30, 65)">
       <g transform="translate(0, 0)">
-  <g data-testid="primary-lang">
-    <circle data-testid="lang-color" cx="0" cy="-5" r="6" fill="#00B4AB" />
-    <text data-testid="lang-name" class="gray" x="15">Dart</text>
-  </g>
-  </g>
+    <g data-testid="primary-lang">
+      <circle data-testid="lang-color" cx="0" cy="-5" r="6" fill="#00B4AB" />
+      <text data-testid="lang-name" class="gray" x="15">Dart</text>
+    </g>
+    </g>
     </g>
   
         </g>
