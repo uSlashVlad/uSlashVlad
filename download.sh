@@ -89,4 +89,5 @@ curl -fs "$BASE_URL/MessagePack-blue?style=flat-square&logoColor=white&logo=json
 curl -fs "$BASE_URL/GitHub-yellow?style=flat-square&logoColor=white&logo=github" -o $SUBDIR/github.svg
 curl -fs "$BASE_URL/GitLab-yellow?style=flat-square&logoColor=white&logo=gitlab" -o $SUBDIR/gitlab.svg
 curl -fs "$BASE_URL/Firebase-yellow?style=flat-square&logoColor=white&logo=firebase" -o $SUBDIR/firebase.svg
+curl -fs "$BASE_URL/Supabase-yellow?style=flat-square&logoColor=white&logo=supabase" -o $SUBDIR/supabase.svg
 curl -fs "$BASE_URL/DigitalOcean-yellow?style=flat-square&logoColor=white&logo=digitalocean" -o $SUBDIR/digital_ocean.svg

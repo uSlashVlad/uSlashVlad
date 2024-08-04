@@ -38,6 +38,7 @@ My name is Vladislav aka u/vlad. I am 21 year old, and I am from Russia. Current
 ![GitHub](images/shields/github.svg)
 ![GitLab](images/shields/gitlab.svg)
 ![Firebase](images/shields/firebase.svg)
+![Supabase](images/shields/supabase.svg)
 ![DigitalOcean](images/shields/digital_ocean.svg)
 
 **... and always ready to know more!**
